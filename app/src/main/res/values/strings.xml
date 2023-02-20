@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">The Water Diary - Reminder</string>
+    <string name="text_hora">00</string>
+    <string name="dois_pontos">:</string>
+    <string name="text_minutos">00</string>
 </resources>
